@@ -26,7 +26,7 @@
     <string name="saturn_checkbox">Saturn</string>
     <string name="jaguar_checkbox">Jaguar</string>
 
-    <!-- This is text for question 4, answer: Xbox. -->
+    <!-- This is the text for question 4, answer: Xbox. -->
     <string name="halo_question">4. In 2001, the developer Bungie Studios released their sci-fi odyssey Halo: Combat Evolved as a launch title on which platform?</string>
 
     <!-- This is the text for the radio buttons in question 4. -->
