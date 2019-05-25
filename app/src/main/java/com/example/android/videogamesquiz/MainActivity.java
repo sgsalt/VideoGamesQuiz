@@ -93,9 +93,8 @@ public class MainActivity extends AppCompatActivity {
         checkXboxQuestion();
         checkDreamcastQuestion();
 
-        /**
-         * These are the toasts that display different messages depending on the score achieved.
-         */
+        //These are the toasts that display different messages depending on the score achieved.
+
         String msg = "";
 
         if (totalScore == 0) {
@@ -112,7 +111,7 @@ public class MainActivity extends AppCompatActivity {
             msg = "You have reached Valhalla!";
         }
         String scoreMessage = "You scored " + totalScore + " out of 5! " + msg;
-        Toast.makeText(this,scoreMessage,Toast.LENGTH_LONG).show();
+        Toast.makeText(this, scoreMessage, Toast.LENGTH_LONG).show();
 
 
     }

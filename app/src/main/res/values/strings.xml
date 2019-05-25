@@ -1,40 +1,43 @@
 <resources>
     <string name="app_name">Video Games Quiz</string>
 
-    //This is the text for question 1, answer: Sonic.
+    <!-- This is the Title text. -->
+    <string name="title_text">quiz of video games</string>
+
+    <!-- This is the text for question 1, answer: Sonic. -->
     <string name="sonic_question">1. In 1991, Sega unleashed their new mascot: a blue hedgehog with attitude, but what was his name?</string>
 
-    //This is the text inside the free text field.
+    <!-- This is the text inside the free text field. -->
     <string name="text_field_text">Answer</string>
 
-    //This is the text for question 2, answer: Hideo Kojima.
+    <!-- This is the text for question 2, answer: Hideo Kojima. -->
     <string name="kojima_question">2. Which legendary video game designer created the Metal Gear series of games?</string>
 
-    //These are the radio buttons for question 2.
+    <!-- These are the radio buttons for question 2. -->
     <string name="kojima_button">Hideo Kojima</string>
     <string name="Molyneux_button">Peter Molyneux</string>
     <string name="Naka_button">Yuji Naka</string>
 
-    //This is text for question 3, answers: Mega Drive, Saturn.
+    <!-- This is text for question 3, answers: Mega Drive, Saturn. -->
     <string name="sega_console_question">3. Which of the following are video game consoles produced by Sega? (Check all that apply).</string>
 
-    //This is the text for the checkboxes in question 3.
+    <!-- This is the text for the checkboxes in question 3. -->
     <string name="mega_drive_checkbox">Mega Drive</string>
     <string name="saturn_checkbox">Saturn</string>
     <string name="jaguar_checkbox">Jaguar</string>
 
-    //This is text for question 4, answer: Xbox.
+    <!-- This is text for question 4, answer: Xbox. -->
     <string name="halo_question">4. In 2001, the developer Bungie Studios released their sci-fi odyssey Halo: Combat Evolved as a launch title on which platform?</string>
 
-    //This is the text for the radio buttons in question 4.
+    <!-- This is the text for the radio buttons in question 4. -->
     <string name="gamecube_button">GameCube</string>
     <string name="xbox_button">Xbox</string>
     <string name="playstation_button">PlayStation 2</string>
 
-    //This is the text for the score button.
+    <!-- This is the text for the score button. -->
     <string name="score_button">Score Me!</string>
 
-    //This is text for question 5, answer: Dreamcast.
+    <!-- This is text for question 5, answer: Dreamcast. -->
     <string name="dreamcast_question">5. Sega released a futuristic console on September 9, 1999 advertising up to 6 billion players online. What was it called?</string>
 
 </resources>
